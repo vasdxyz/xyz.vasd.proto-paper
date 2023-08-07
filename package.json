@@ -1,0 +1,16 @@
+{
+  "name": "xyz.vasd.proto-paper",
+  "displayName": "XV Proto Paper",
+  "unity": "2021.3",
+  "description": "Shaders rendering grid with dynamic text (grid size and position).",
+  "version": "0.1.0-alpha.1",
+  "author": {
+    "name": "VasdXyz",
+    "email": "vasdxyz@gmail.com",
+    "url": "https://vasd.xyz/"
+  },
+  "documentationUrl": "https://fake.vasd.xyz/",
+  "dependencies": {
+    "com.unity.shadergraph": "14.0.8"
+  }
+}
