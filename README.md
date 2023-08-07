@@ -2,6 +2,16 @@
 Contains shaders for prototype grid and ruler.
 It's based on `Shader Graph` with few custom `.hlsl` functions and includes.
 
+# Install
+## From github
+
+- Click `+` button in Package Manager window
+- Choose `Add package from git URL...`
+- Type `https://github.com/vasdxyz/xyz.vasd.proto-paper.git`
+
+That's it!
+
+# Getting Started
 There are two shaders:
 
 `Xyz.Vasd/ProtoPaper/ProtoPaper-Lit` for lite version
