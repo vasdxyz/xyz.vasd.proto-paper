@@ -1,6 +1,8 @@
-# Xyz.Vasd.ProtoShaders
+# Xyz.Vasd.ProtoPaper
 Contains shaders for prototype grid and ruler.
 It's based on `Shader Graph` with few custom `.hlsl` functions and includes.
+
+![Preview](https://lh3.googleusercontent.com/drive-viewer/AITFw-zOLbQ-P773NUZRn-iUxQQdz9sTMq4XKGBTikXJp8q5pgnChdQDxkN3vwCosS3dUsIUjmeKI97U5DSvE_F794LF834L9g=w1920-h932)
 
 # Install
 ## From github
